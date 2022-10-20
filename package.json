@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "@developedbyant/stock-data",
+  "version": "0.0.2",
+  "description": "",
+  "main": "./out/main.js",
+  "types": "./out/main.d.ts",
+  "files": [
+    "out"
+  ],
+  "keywords": [
+    "yahoo",
+    "api",
+    "yahoo api",
+    "stock",
+    "stock market"
+  ],
+  "author": "DevelopedByAnt",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.39"
+  }
+}
